@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this are called aruguments
 PERSON1=$1
 PERSON2=$2
 
