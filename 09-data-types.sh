@@ -2,7 +2,7 @@
 
 NUMBER1=100
 NUMBER2=200
-Name=Devops
+NAME=Devops
 
 SUM=$(($NUMBER1+$NUMBER2+$NAME))
 
